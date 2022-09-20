@@ -15,14 +15,14 @@ enable_smart_app_banner : true                          # Set to true to show a 
 
 # Information About Yourself
 your_name               : Vitya Poekhal
-your_link               : http://vityapoekhal.github.io
+your_link               : https://instagram.com/vityapoekhal
 your_city               :
 email_address           :
 facebook_username       : vityapoekhal
 instagram_username      : vityapoekhal
 twitter_username        : vityapoekhal
 github_username         : vityapoekhal
-youtube_username        : vityapoekhal
+youtube_username        : UC57HY7GHQZrTS4PY5uOroaA
 
 # Feature List              → Edit, add or remove features to be presented.
 features                    :

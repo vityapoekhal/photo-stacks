@@ -503,12 +503,20 @@ nav > ul li a:active {
 }
 
 .iconEmoji {
+	-webkit-font-smoothing: antialiased;
+
+	display: inline-block;
+	position: absolute;
+	left: 0;
+	width: 100%;
+
 	font-weight: 900;
 	font-size: 2em;
-	left: 0;
-	position: absolute;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
 	text-align: center;
-	width: 100%;
+	line-height: 1;
 }
 
 .iconBack {

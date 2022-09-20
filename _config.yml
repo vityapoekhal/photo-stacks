@@ -47,6 +47,10 @@ features                    :
     description             : If no album fits the photo, you can postpone the decision for later by scrolling the carousel to the next photo.
     fontawesome_icon_name   : 🗿
 
+  - title                   : More Features Coming Soon!
+    description             : Stay tuned to get video sorting, the ability to jump to the desired photo in the carousel, and many more.
+    fontawesome_icon_name   : 🔮
+
 # Theme Settings
 topbar_color                   : "#000000"
 topbar_transparency            : 0.3

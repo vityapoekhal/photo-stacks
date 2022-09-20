@@ -212,7 +212,7 @@ nav > ul li:last-child {
 nav > ul li a:link,
 nav > ul li a:visited {
 	text-decoration: none;
-	color: rgba($header-title-color, 0.6);
+	color: rgba($header-title-color, 0.9);
 }
 
 nav > ul li a:hover,
@@ -500,6 +500,15 @@ nav > ul li a:active {
 
 .feature:nth-child(3n+1) {
 	padding-left: 0px;
+}
+
+.iconEmoji {
+	font-weight: 900;
+	font-size: 2em;
+	left: 0;
+	position: absolute;
+	text-align: center;
+	width: 100%;
 }
 
 .iconBack {

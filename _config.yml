@@ -29,23 +29,23 @@ features                    :
 
   - title                   : Highest Sorting Quality
     description             : Would an artificial intelligence be able to understand why you care about this or that picture? Manual sorting won't give the machine a chance to make an irreversible mistake.
-    fontawesome_icon_name   : gem
+    fontawesome_icon_name   : 💎
 
   - title                   : Speed and Ease of Use
     description             : With the conveyorized approach, sorting takes noticeably less time compared to the standard application.
-    fontawesome_icon_name   : rabbit-running
+    fontawesome_icon_name   : 🏇
 
   - title                   : Intuitive User Interface
     description             : You don't have to figure it out or adapt. All it takes is one finger to work.
-    fontawesome_icon_name   : rocket-launch
+    fontawesome_icon_name   : 🚀
 
   - title                   : Sorting by Albums
     description             : Maximum sorting efficiency by using albums. You can rotate the device sideways and work horizontally to fit more albums on one page.
-    fontawesome_icon_name   : folder-tree
+    fontawesome_icon_name   : 🗂
 
   - title                   : Room for Doubt
     description             : If no album fits the photo, you can postpone the decision for later by scrolling the carousel to the next photo.
-    fontawesome_icon_name   : face-thinking
+    fontawesome_icon_name   : 🗿
 
 # Theme Settings
 topbar_color                   : "#000000"

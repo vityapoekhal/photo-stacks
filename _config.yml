@@ -16,7 +16,7 @@ enable_smart_app_banner : true                          # Set to true to show a 
 # Information About Yourself
 your_name               : Vitya Poekhal
 your_link               : https://instagram.com/vityapoekhal
-your_city               :
+your_city               : Xcode
 email_address           :
 facebook_username       : vityapoekhal
 instagram_username      : vityapoekhal

@@ -502,6 +502,16 @@ nav > ul li a:active {
 	padding-left: 0px;
 }
 
+.iconWrap {
+	display: inline-block;
+	height: 2em;
+	line-height: 2em;
+	position: relative;
+	vertical-align: middle;
+	width: 2.5em;
+	font-size: 1em;
+}
+
 .iconEmoji {
 	-webkit-font-smoothing: antialiased;
 
